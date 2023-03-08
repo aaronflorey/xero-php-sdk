@@ -1,0 +1,10 @@
+{
+  "name": "mochaka/xero-php-sdk",
+  "version": "0.0.1-beta",
+  "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "sammyjo20/saloon": "^2.0",
+        "spatie/laravel-data": "^3.1"
+  }
+}
